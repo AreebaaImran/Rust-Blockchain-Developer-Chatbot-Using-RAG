@@ -6,7 +6,7 @@ A production oriented AI chatbot built to **assist Rust blockchain developers** 
 
 ## 🖼️ Chatbot UI
 
-![Blockchain Developer Chatbot UI](assets/chatbot_ui.png)
+![Blockchain Developer Chatbot UI](assets/chatbot_ui.jpg)
 
 
 ## 🎥 Project Walkthrough
